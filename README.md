@@ -1,2 +1,2 @@
 # logica_programa-o_II
-Link para SENAC CASTANHAL [Markdown Live Preview](https://www.pa.senac.br/unidade/castanhal).
+Link para  [SENAC CASTANHAL](https://www.pa.senac.br/unidade/castanhal).
